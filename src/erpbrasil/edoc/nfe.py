@@ -666,7 +666,7 @@ ESTADO_WS = {
     'GO': UFGO,
     'MA': SVAN,
     'MG': UFMG,
-    'MS': SVRS,
+    'MS': UFMS,
     'MT': UFMT,
     'PA': SVAN,
     'PB': SVRS,
